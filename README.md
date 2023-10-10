@@ -1,3 +1,3 @@
 ## Description
 
-Project developed during the study of an Ignite trail. Consists of creating automated tests.
+Project developed during the study of the Ignite Node.js Trail. Consists of creating automated tests.
